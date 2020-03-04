@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import CPUUsage from './components/CPUUsage';
+import Machine from './components/Machine';
 
 function App() {
   return (
     <div id="app" className="App">
       <header className="App-header">
-        <CPUUsage />
+        <Machine />
       </header>
     </div>
   );

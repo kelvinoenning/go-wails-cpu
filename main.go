@@ -19,9 +19,9 @@ func main() {
 	stats := &sys.Stats{}
 
 	app := wails.CreateApp(&wails.AppConfig{
-		Width:  1024,
-		Height: 768,
-		Title:  "go-wails-cpu",
+		Width:  250,
+		Height: 100,
+		Title:  "Go Wails CPU",
 		JS:     js,
 		CSS:    css,
 		Colour: "#131313",
