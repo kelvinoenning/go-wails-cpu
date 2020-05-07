@@ -8,7 +8,7 @@ This repository is a test with Golang + Wails + React
 
 ## How to use?
 
-You can compile with the Wails project and run the application or run the app already compiled in this repository
+You can compile and run the application or run the app already compiled in this repository
 
 #### Building
 
